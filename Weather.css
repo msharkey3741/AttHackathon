@@ -1,0 +1,13 @@
+.background-image {
+  background-size: contain;
+  background-position: top;
+  background: cover;
+}
+
+.weather-info {
+  text-shadow: -1px 1px 10px rgb(255, 255, 255);
+}
+
+.beachInfo {
+  justify-content: "center";
+}
